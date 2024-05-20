@@ -1,6 +1,6 @@
 # RetoTecnico1-GADI
 
-Este repositorio contiene un conjunto de herramientas desarrolladas en Python para el análisis y visualización de los portafolios de clientes en el ámbito de inversión. Estas herramientas están diseñadas para ayudar a los gerentes comerciales de inversión a gestionar de manera más eficiente los portafolios de sus clientes y tomar decisiones informadas basadas en datos.
+Este repositorio contiene un conjunto de herramientas desarrolladas en Python para el análisis y visualización de los portafolios de clientes en el ámbito de inversión, presentado como reto técnico por Sofía Salamanca. Estas herramientas están diseñadas para ayudar a los gerentes comerciales de inversión a gestionar de manera más eficiente los portafolios de sus clientes y tomar decisiones informadas basadas en datos. 
 
 ## Pipeline Analítico
 
